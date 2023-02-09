@@ -11,9 +11,7 @@ Para me encontrar:
 
 Hard skills: 😃
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=red)![NodeJs](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=green)
-
-
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=red)![NodeJs](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=green)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=white)
 Grafico:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoyeggli&layout=compact&theme=radical)
